@@ -1,7 +1,7 @@
 html, body {
     margin: 0;
     padding: 0;
-    font-family: 'Rubik', sans-serif;
+    font-family: "Cinzel", serif;;
     background-color: #EEF0F4;
     color: #432000;
     user-select: none;
@@ -31,18 +31,18 @@ input {
     margin-bottom: 10px;
     font-size: 20px;
     text-align: center;
-    font-family: 'Rubik', sans-serif;
+    font-family: "Cinzel", serif;
 }
 
 button {
     color: #FDFDFD;
-    background-color: #AC485A;
+    background-color: #d34e21;
     border: none;
     border-radius: 8px;
     padding: 15px;
     font-size: 20px;
     text-align: center;
-    font-family: 'Rubik', sans-serif;
+    font-family: "Cinzel", serif;
 
 }
 
